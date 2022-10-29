@@ -1,0 +1,19 @@
+div {
+    max-width: 1025px;
+    width: auto;
+    margin: 0 auto;
+    height: 600px;
+    background-color: rgb(56, 204, 37);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition-property: background-color;
+    transition-duration: 1s;
+}
+button {
+    background-color: rgb(245, 115, 8);
+    width: 60px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+}
